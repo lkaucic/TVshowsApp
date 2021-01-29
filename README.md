@@ -1,2 +1,2 @@
 # TVshowsApp
-Potrebna dorada
+

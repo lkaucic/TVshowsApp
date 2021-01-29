@@ -1,0 +1,9 @@
+C:\Users\Luka\source\repos\TvShowCode\bin\Debug\netstandard2.0\TvShowCode.deps.json
+C:\Users\Luka\source\repos\TvShowCode\bin\Debug\netstandard2.0\TvShowCode.dll
+C:\Users\Luka\source\repos\TvShowCode\bin\Debug\netstandard2.0\TvShowCode.pdb
+C:\Users\Luka\source\repos\TvShowCode\obj\Debug\netstandard2.0\TvShowCode.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\TvShowCode\obj\Debug\netstandard2.0\TvShowCode.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\TvShowCode\obj\Debug\netstandard2.0\TvShowCode.AssemblyInfo.cs
+C:\Users\Luka\source\repos\TvShowCode\obj\Debug\netstandard2.0\TvShowCode.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\TvShowCode\obj\Debug\netstandard2.0\TvShowCode.dll
+C:\Users\Luka\source\repos\TvShowCode\obj\Debug\netstandard2.0\TvShowCode.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZRV81adlrVMhDJHoXvq0nulq8bdVIRYHDYQvBhHrpocvZ9e4f36HDGsfwy8UT1WVmOzzBUw9rgZjMyZ+0u+AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka\\source\\repos\\TvShowCode\\TvShowCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
